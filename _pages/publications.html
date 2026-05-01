@@ -1,36 +1,56 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+1. **Quantifying the impacts of non-recurrent congestion on workplace EV charging infrastructures**  
+Kumar, N., Wang, Y., Chin, J.-X., & Raubal, M. (2025)  
+Transportation Research Part D: Transport and Environment, 146, 104869.  
+<https://doi.org/10.1016/j.trd.2025.104869>
 
-{% include base_path %}
+2. **Enhancing Deep Learning-Based City-Wide Traffic Prediction Pipelines Through Complexity Analysis**  
+Kumar, N., Martin, H., & Raubal, M. (2024)  
+Data Science for Transportation, 6(3), Article 24.  
+<https://doi.org/10.1007/s42421-024-00109-x>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+3. **Applications of Deep Learning in Congestion Detection, Prediction and Alleviation: A Survey**  
+Kumar, N., & Raubal, M. (2021)  
+Transportation Research Part C: Emerging Technologies, 133, 103432.  
+<https://doi.org/10.1016/j.trc.2021.103432>
 
+4. **Activity-based epidemic propagation and contact network scaling in auto-dependent metropolitan areas**  
+Kumar, N., Oke, J. B., & Nahmias-Biran, B.-H. (2021)  
+Scientific Reports, 11, 22665.  
+<https://doi.org/10.1038/s41598-021-01522-w>
 
+5. **Who benefits from AVs? Equity implications of automated vehicles policies in full-scale prototype cities**  
+Nahmias-Biran, B.-H., Oke, J. B., & Kumar, N. (2021)  
+Transportation Research Part A: Policy and Practice, 154, 92-107.  
+<https://doi.org/10.1016/j.tra.2021.09.013>
 
+6. **Evaluating the impacts of shared automated mobility on-demand services: an activity-based accessibility approach**  
+Nahmias-Biran, B.-H., Oke, J. B., Kumar, N., Lima Azevedo, C., & Ben-Akiva, M. (2021)  
+Transportation, 48(4), 1613-1638.  
+<https://doi.org/10.1007/s11116-020-10106-y>
+
+7. **Assessing the impacts of automated mobility-on-demand through agent-based simulation: A study of Singapore**  
+Oh, S., Seshadri, R., Lima Azevedo, C., Kumar, N., Basak, K., & Ben-Akiva, M. (2020)  
+Transportation Research Part A: Policy and Practice.  
+<https://doi.org/10.1016/j.tra.2020.06.009>
+
+8. **From Traditional to Automated Mobility on Demand: A Comprehensive Framework for Modeling On-Demand Services in SimMobility**  
+Nahmias-Biran, B.-H., Oke, J. B., Kumar, N., et al. (2019)  
+Transportation Research Record, 2673(12), 15-29.  
+<https://journals.sagepub.com/doi/10.1177/0361198119853553>
+
+9. **U-PC: Unsupervised Planogram Compliance**  
+Ray, A., Kumar, N., Shaw, A., & Mukherjee, D. P. (2018)  
+European Conference on Computer Vision (ECCV), 586-600.  
+<https://openaccess.thecvf.com/content_ECCV_2018/html/Archan_Ray_U-PC_Unsupervised_Planogram_ECCV_2018_paper.html>
+
+10. **A multiscale interpretability framework for identifying actionable road network features to mitigate congestion in highly congested cities**  
+Kumar, N., Zhang, Y., Wiedemann, N., Oke, J. B., & Raubal, M. (2025)  
+Under revision at Scientific Reports; ResearchSquare preprint.  
+<https://www.researchsquare.com/article/rs-4952650/v2>
