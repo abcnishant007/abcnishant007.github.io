@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Nishant Kumar"
 title_separator          : "-"
 name                     : &name "Nishant Kumar"
-description              : &description "Personal academic website of Dr. Nishant Kumar"
+description              : &description "Personal academic website of Nishant Kumar"
 url                      : https://abcnishant007.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "abcnishant007/abcnishant007.github.io"
 author:
   # Biographic information
   avatar           : "personal_photos/ProfilePicture.jpg"
-  name             : "Dr. Nishant Kumar"
+  name             : "Nishant Kumar"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow at NUS; transport AI, congestion prediction, and interpretable ML."
   location         : "Singapore"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "abcnishant007"
+  linkedin         : "nishant-kumar-93434024"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
