@@ -23,3 +23,9 @@ Quick links:
 - [Publications](/publications/)
 - [Talks](/talks/)
 - [Photos](/photos/)
+
+Other researchers with similar names:
+- [Dr. Nishant Kumar](https://nish03.github.io) - Helmholtz Zentrum Hereon/TU Dresden; AI/ML for climate modeling
+- [Nishant Kumar](https://orcid.org/0000-0002-2814-8803) - Tufts University; 2D materials, AFM, and biomedical mechanics
+- [Nishant Kumar](https://iitj.ac.in/People/Profile/bcc4a5b6-0c7d-42b3-bf7e-aaa7c1263d67) - IIT Jodhpur; power electronics, advanced control, and renewable energy systems
+- [Nishanth J. Kumar](https://nishanthjkumar.com) - MIT CSAIL; AI/ML and robotics for long-horizon planning
