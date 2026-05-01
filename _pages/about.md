@@ -15,14 +15,6 @@ If you are interested in transportation research, this is what I do:
 
 Previously, I was a PhD student at ETH Zurich in Prof. Dr. Martin Raubal's [Mobility Information Engineering Lab](https://mie-lab.ethz.ch).
 
-Quick links:
-- [About](/about/)
-- [CV](/cv/)
-- [Publications](/publications/)
-- [Talks](/talks/)
-- [Software](/software/)
-- [Photos](/photos/)
-
 Other researchers with similar names:
 - [Nishant Kumar](https://nish03.github.io) - Research Scientist at Helmholtz Zentrum Hereon/TU Dresden, working on AI/ML for climate modeling
 - [Nishant Kumar](https://orcid.org/0000-0002-2814-8803) - Postdoctoral Researcher at Tufts University, working on 2D materials, AFM, and biomedical mechanics
