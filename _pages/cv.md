@@ -84,13 +84,10 @@ Awards and Recognition
 ======
 * TCS Gold Medal, Best M.Tech. Dissertation, ISI Kolkata (2016)
 * Among 27 students selected nationally for fully funded M.Tech. at ISI Kolkata
-* IIT-JEE 2010 percentile >98; AIEEE 2010 percentile >99
+* IIT-JEE 2010: AIR 8654, percentile >98 (national-level engineering college joint examination; approx. 0.4 million students)
+* AIEEE 2010: AIR 9899, percentile >99 (national-level engineering college joint examination; approx. 1.2 million students)
 * 13th rank, Regional Mathematical Olympiad (RMO) 2005
 
 Patent
 ======
 * *System and method for object recognition based estimation of planogram compliance*, Application No. WO2018069861A1 (granted in US, WO, AUS)
-  
-Service and leadership
-======
-References available on request.

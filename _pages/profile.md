@@ -14,8 +14,3 @@ My research interests:
 - Complexity-aware deep learning for city-scale prediction pipelines
 - Cross-domain simulation coupling (transport, infrastructure, resilience)
 - Uncertainty-aware modelling for policy-relevant analytics
-
-Profiles and contact:
-- nishant.kumar@nus.edu.sg
-- abc.nishant007@gmail.com
-- Google Scholar, GitHub, LinkedIn (links will be added in site config)

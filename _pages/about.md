@@ -6,22 +6,21 @@ redirect_from:
   - /home/
 ---
 
-Welcome to my page.
-
-I am **Nishant Kumar**, a Postdoctoral Research Fellow at the National University of Singapore (NUS).
+Hi! Welcome to my site. I am currently a Postdoctoral Research Fellow at the National University of Singapore in Dr. Prateek Bansal's [BeCoS Lab](https://behaviourscience.org).
 
 If you are interested in transportation research, this is what I do:
-- Data-driven congestion prediction
+- Data-driven congestion prediction and mitigation
 - Transport simulation
 - Interpretable machine learning for urban systems
 
-I was previously at ETH Zurich (Dr. sc., 2025), the Singapore-ETH Centre, SMART (MIT Singapore), and NTNU.
+Previously, I was a PhD student at ETH Zurich in Prof. Dr. Martin Raubal's [Mobility Information Engineering Lab](https://mie-lab.ethz.ch).
 
 Quick links:
 - [About](/about/)
 - [CV](/cv/)
 - [Publications](/publications/)
 - [Talks](/talks/)
+- [Software](/software/)
 - [Photos](/photos/)
 
 Other researchers with similar names:

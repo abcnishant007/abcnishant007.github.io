@@ -23,5 +23,8 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "Software"
+    url: /software/
+
   - title: "Photos"
     url: /photos/
