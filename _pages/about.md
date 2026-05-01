@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nishant Kumar (NUS/ETH) - Disambiguation"
+title: "Nishant Kumar"
 author_profile: true
 redirect_from: 
   - /home/
@@ -8,7 +8,7 @@ redirect_from:
 
 Welcome to my page.
 
-If you are looking for **Nishant Kumar**, you are in the right place. I am **Dr. Nishant Kumar**, a Postdoctoral Research Fellow at the National University of Singapore (NUS).
+I am **Dr. Nishant Kumar**, a Postdoctoral Research Fellow at the National University of Singapore (NUS).
 
 If you are interested in transportation research, this is what I do:
 - Data-driven congestion prediction
@@ -23,5 +23,3 @@ Quick links:
 - [Publications](/publications/)
 - [Talks](/talks/)
 - [Photos](/photos/)
-
-If you meant a different person with the same name, please verify affiliation before citing or contacting.
