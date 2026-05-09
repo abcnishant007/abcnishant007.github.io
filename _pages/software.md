@@ -224,8 +224,8 @@ Selected projects
 ======
 * [**smartprint**](https://github.com/abcnishant007/smartprint): lightweight Python debugging utility for readable variable-name/value printing.  
   PyPI: [smartprint](https://pypi.org/project/smartprint/) (46.5K+ downloads).
-* [**meaningful-pdf-names**](https://pypi.org/project/meaningful-pdf-names/): PDF renaming CLI for compact, searchable, keyword-rich filenames.  
-  Also on piwheels: [meaningful-pdf-names](https://www.piwheels.org/project/meaningful-pdf-names/).
+* [**meaningful-pdf-names**](https://pypi.org/project/meaningful-pdf-names/): offline-friendly CLI that renames messy PDF files into compact, searchable, keyword-rich filenames using text extracted from the first pages. Supports single files, folders, dry runs, and an optional local summarizer.  
+  PyPI: [meaningful-pdf-names](https://pypi.org/project/meaningful-pdf-names/) (3.4K+ downloads). Also on piwheels: [meaningful-pdf-names](https://www.piwheels.org/project/meaningful-pdf-names/).
 * [**LitSearch**](https://github.com/abcnishant007/LitSearch): Flask-based PDF search and paragraph-ranking app for faster literature review.
 * [**cleanlatex**](https://cleanlatex.neocities.org): browser utility for cleaning LaTeX and BibTeX files.
 
