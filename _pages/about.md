@@ -12,6 +12,8 @@ I am a transportation researcher working on urban traffic congestion as a data-d
 
 A recurring theme in my work is reproducibility. Since my 2021 survey on deep learning for traffic congestion detection, prediction, and alleviation, where I highlighted the need for open datasets, open-source code, and transferable benchmarks, I have tried to make openness a consistent part of my research practice.
 
+My work is most closely aligned with SDG 11, Sustainable Cities and Communities, with secondary connections to SDG 3, SDG 12, and SDG 17 through congestion mitigation, computationally efficient modelling, open datasets, and reproducible research.
+
 I am currently a Postdoctoral Research Fellow at the National University of Singapore in Dr. Prateek Bansal's [BeCoS Lab](https://behaviourscience.org). Previously, I was a PhD student at ETH Zurich in Prof. Dr. Martin Raubal's [Mobility Information Engineering Lab](https://mie-lab.ethz.ch).
 
 <div style="font-size: 50%;">
