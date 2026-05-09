@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-My open-source projects often come from practical research workflow friction: if a repetitive task slows me down, I try to turn the fix into a reusable tool.
+I build research software and tools for transport AI, simulation, data analysis, and scientific workflows. Looking for code associated with specific papers? See the [Code & Data](/code-data/) page.
 
 <section class="software-activity-card">
   <div class="software-activity-copy">
@@ -220,26 +220,19 @@ My open-source projects often come from practical research workflow friction: if
   })();
 </script>
 
-Selected projects
-======
-* [**smartprint**](https://github.com/abcnishant007/smartprint): lightweight Python debugging utility for readable variable-name/value printing.  
-  PyPI: [smartprint](https://pypi.org/project/smartprint/) (46.5K+ downloads).
-* [**meaningful-pdf-names**](https://pypi.org/project/meaningful-pdf-names/): offline-friendly CLI that renames messy PDF files into compact, searchable, keyword-rich filenames using text extracted from the first pages. Supports single files, folders, dry runs, and an optional local summarizer.  
-  PyPI: [meaningful-pdf-names](https://pypi.org/project/meaningful-pdf-names/) (3.4K+ downloads). Also on piwheels: [meaningful-pdf-names](https://www.piwheels.org/project/meaningful-pdf-names/).
-* [**LitSearch**](https://github.com/abcnishant007/LitSearch): Flask-based PDF search and paragraph-ranking app for faster literature review.
-* [**cleanlatex**](https://cleanlatex.neocities.org): browser utility for cleaning LaTeX and BibTeX files.
-
-Open-source contributions
+Research software and contributions
 ======
 * [trackintel](https://github.com/mie-lab/trackintel)
 * [simmobility-prod](https://github.com/smart-fm/simmobility-prod)
-* [Matplotlib](https://github.com/matplotlib/matplotlib)
+* Complexity-aware traffic prediction tools
 
-Language and tooling
+Scientific workflow tools
 ======
-I mainly work in Python for modelling, data workflows, and research software. I also use C/C++, MATLAB, SQL, and shell scripting.
+* [**LitSearch**](https://github.com/abcnishant007/LitSearch): Flask-based PDF search and paragraph-ranking app for faster literature review
+* [**meaningful-pdf-names**](https://pypi.org/project/meaningful-pdf-names/): CLI for renaming PDFs into compact, searchable filenames
+* [**cleanlatex**](https://cleanlatex.neocities.org): browser utility for cleaning LaTeX and BibTeX files
 
-Community
+Python utilities
 ======
-* Stack Overflow profile: [lifezbeautiful](https://stackoverflow.com/users/3896008/lifezbeautiful)
-* GitHub profile: [abcnishant007](https://github.com/abcnishant007)
+* [**smartprint**](https://github.com/abcnishant007/smartprint): lightweight Python debugging utility  
+  PyPI: [smartprint](https://pypi.org/project/smartprint/)

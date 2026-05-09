@@ -26,5 +26,8 @@ main:
   - title: "Software"
     url: /software/
 
+  - title: "Code & Data"
+    url: /code-data/
+
   - title: "Photos"
     url: /photos/
