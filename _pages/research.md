@@ -26,9 +26,3 @@ I am especially interested in three directions. First, I want to study how open 
 Global Collaborators
 ======
 I collaborate across institutions and disciplines on transport AI, simulation, mobility data, and infrastructure resilience.
-
-You can list collaborators here in a compact format, for example:
-
-- Name - Institution - Country - Topic area
-- Name - Institution - Country - Topic area
-- Name - Institution - Country - Topic area
