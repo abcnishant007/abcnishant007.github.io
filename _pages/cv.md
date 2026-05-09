@@ -25,20 +25,18 @@ Education
 Work experience
 ======
 * **Postdoctoral Research Fellow**, National University of Singapore (NUS), Singapore (Feb 2026-present)  
-  PI: Dr. Prateek Bansal
-* **Postdoctoral Researcher**, Singapore-ETH Centre / ETH Zurich (Aug 2025-Sep 2025)
-* **PhD Researcher, Future Resilient Systems**, Singapore-ETH Centre / ETH Zurich (May 2020-Jul 2025)  
-  Mobility Information Engineering Lab (MIE Lab), ETH Zurich; Supervisor: Prof. Dr. Martin Raubal
-* **Research Associate, Future Resilient Systems**, Singapore-ETH Centre / ETH Zurich (Nov 2019-Apr 2020)
+  PI: [Dr. Prateek Bansal](https://cde.nus.edu.sg/cee/staff/prateek-bansal/)
+* **Research Associate, Future Resilient Systems**, Singapore-ETH Centre (Nov 2019-Apr 2020)
 * **Research Fellow (PhD Stipendiat)**, NTNU, Trondheim, Norway (Jun 2019-Nov 2019)  
-  PI: Prof. Zhirong Yang
+  PI: [Prof. Zhirong Yang](https://www.ntnu.edu/employees/zhirong.yang)
 * **Visiting Researcher**, Ariel University, Israel (Jul 2019)  
-  PI: Dr. Bat-Hen Nahmias-Biran
+  PI: [Dr. Bat-Hen Nahmias-Biran](https://www.ariel.ac.il/wp/future-mobility-lab/phd-bat-hen-nachmias-biran/)
 * **Senior Research Engineer**, SMART Future Urban Mobility, Singapore (Jan 2018-May 2019)  
-  PI: Prof. Moshe Ben-Akiva
+  PI: [Prof. Moshe Ben-Akiva](https://www.mmi.mit.edu/people/moshe-ben-akiva)
 * **Research Engineer**, SMART Future Urban Mobility, Singapore (Aug 2016-Dec 2017)  
-  PI: Prof. Moshe Ben-Akiva
-* **Visiting Research Scholar**, Indian Statistical Institute, Kolkata, India (Jun 2016-Aug 2016)
+  PI: [Prof. Moshe Ben-Akiva](https://www.mmi.mit.edu/people/moshe-ben-akiva)
+* **Visiting Research Scholar**, Indian Statistical Institute, Kolkata, India (Jun 2016-Aug 2016)  
+  PI: [Prof. Dr. Dipti Prasad Mukherjee](https://www.isical.ac.in/~dipti/)
 
 Skills
 ======
