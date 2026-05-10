@@ -13,35 +13,11 @@ Since then, I have tried to make openness a consistent part of my own research p
 
 This page collects paper-specific code repositories, dataset links, reproducibility notes, and related resources.
 
+> Update in progress: I am currently curating and standardizing links, documentation quality, and reproducibility notes across papers. A structured list will be published here soon.
+
 Paper-Specific Repositories
 ======
-
-### Enhancing Deep Learning-Based City-Wide Traffic Prediction Pipelines Through Complexity Analysis
-**Year:** 2024  
-**Role:** First author  
-**Code:** GitHub link  
-**Data:** Dataset link / freely available data  
-**Paper:** DOI link  
-
-Brief description of what the repository contains.
-
-### Uncertainty Quantification for Image-Based Traffic Prediction Across Cities
-**Year:** 2023  
-**Role:** Co-author  
-**Code:** GitHub link, if available  
-**Data:** Dataset link, if available  
-**Paper:** arXiv / DOI link  
-
-Brief reproducibility note.
-
-### Quantifying the Impacts of Non-Recurrent Congestion on Workplace EV Charging Infrastructures
-**Year:** 2025  
-**Role:** First author  
-**Code:** GitHub link, if available  
-**Data:** Dataset link, if available  
-**Paper:** DOI link  
-
-Brief reproducibility note.
+This section is being updated with verified links and reproducibility metadata for each publication.
 
 Openness and Reproducibility
 ======

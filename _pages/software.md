@@ -222,17 +222,26 @@ I build research software and tools for transport AI, simulation, data analysis,
 
 Research software and contributions
 ======
-* [trackintel](https://github.com/mie-lab/trackintel)
-* [simmobility-prod](https://github.com/smart-fm/simmobility-prod)
-* Complexity-aware traffic prediction tools
+* [trackintel](https://github.com/mie-lab/trackintel): open-source Python toolkit for geospatial trajectory processing and mobility analytics.
+* [simmobility-prod](https://github.com/smart-fm/simmobility-prod): contributions to large-scale urban mobility simulation workflows and related tooling.
+* Complexity-aware traffic prediction tools: internal and paper-linked tooling for model comparison, complexity analysis, and scalable training/evaluation workflows.
 
 Scientific workflow tools
 ======
-* [**LitSearch**](https://github.com/abcnishant007/LitSearch): Flask-based PDF search and paragraph-ranking app for faster literature review
-* [**meaningful-pdf-names**](https://pypi.org/project/meaningful-pdf-names/): CLI for renaming PDFs into compact, searchable filenames
-* [**cleanlatex**](https://cleanlatex.neocities.org): browser utility for cleaning LaTeX and BibTeX files
+* [**LitSearch**](https://github.com/abcnishant007/LitSearch): Flask-based PDF search and paragraph-ranking app for faster literature review and retrieval of relevant sections.
+* [**meaningful-pdf-names**](https://pypi.org/project/meaningful-pdf-names/): offline-friendly CLI to rename messy PDF files into compact, searchable filenames from extracted front-page content.
+* [**cleanlatex**](https://cleanlatex.neocities.org): browser utility for cleaning LaTeX and BibTeX files before submission and collaboration.
 
 Python utilities
 ======
 * [**smartprint**](https://github.com/abcnishant007/smartprint): lightweight Python debugging utility  
   PyPI: [smartprint](https://pypi.org/project/smartprint/)
+
+Language and tooling
+======
+I mainly work in Python for modelling, data workflows, and research software. I also use C/C++, MATLAB, SQL, and shell scripting.
+
+Community
+======
+* Stack Overflow profile: [lifezbeautiful](https://stackoverflow.com/users/3896008/lifezbeautiful)
+* GitHub profile: [abcnishant007](https://github.com/abcnishant007)
