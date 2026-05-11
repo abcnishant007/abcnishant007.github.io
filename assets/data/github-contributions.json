@@ -1,24 +1,12 @@
 {
   "username": "abcnishant007",
   "source": "https://github-contributions.vercel.app/api/v1/abcnishant007",
-  "generated_at": "2026-05-09T07:01:18+00:00",
+  "generated_at": "2026-05-11T06:28:35+00:00",
   "summary": {
     "year": "2026",
-    "total": 669
+    "total": 692
   },
   "contributions": [
-    {
-      "date": "2025-04-26",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-04-27",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
     {
       "date": "2025-04-28",
       "count": 0,
@@ -1527,7 +1515,7 @@
     },
     {
       "date": "2026-01-04",
-      "count": 669,
+      "count": 692,
       "color": "#216e39",
       "intensity": "4"
     },
@@ -2278,20 +2266,20 @@
     {
       "date": "2026-05-09",
       "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-05-10",
       "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "color": "#216e39",
+      "intensity": "4"
     },
     {
       "date": "2026-05-11",
       "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "color": "#9be9a8",
+      "intensity": "1"
     },
     {
       "date": "2026-05-12",
