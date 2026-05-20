@@ -17,10 +17,11 @@ My work is most closely aligned with SDG 11, Sustainable Cities and Communities,
 I am currently a Postdoctoral Research Fellow at the National University of Singapore in Dr. Prateek Bansal's [BeCoS Lab](https://behaviourscience.org). Previously, I was a PhD student at ETH Zurich in Prof. Dr. Martin Raubal's [Mobility Information Engineering Lab](https://mie-lab.ethz.ch).
 
 <div style="font-size: 50%;">
-Other researchers with similar names:
-
-- [Nishant Kumar](https://nish03.github.io) - Research Scientist at Helmholtz Zentrum Hereon/TU Dresden, working on AI/ML for climate modeling
-- [Nishant Kumar](https://orcid.org/0000-0002-2814-8803) - Postdoctoral Researcher at Tufts University, working on 2D materials, AFM, and biomedical mechanics
-- [Nishant Kumar](https://iitj.ac.in/People/Profile/bcc4a5b6-0c7d-42b3-bf7e-aaa7c1263d67) - Associate Professor at IIT Jodhpur, working on power electronics, advanced control, and renewable energy systems
-- [Nishanth J. Kumar](https://nishanthjkumar.com) - PhD student at MIT CSAIL, working on AI/ML and robotics for long-horizon planning
+  <p>Other researchers with similar names:</p>
+  <ul>
+    <li><a href="https://nish03.github.io">Nishant Kumar</a> - Research Scientist at Helmholtz Zentrum Hereon/TU Dresden, working on AI/ML for climate modeling</li>
+    <li><a href="https://orcid.org/0000-0002-2814-8803">Nishant Kumar</a> - Postdoctoral Researcher at Tufts University, working on 2D materials, AFM, and biomedical mechanics</li>
+    <li><a href="https://iitj.ac.in/People/Profile/bcc4a5b6-0c7d-42b3-bf7e-aaa7c1263d67">Nishant Kumar</a> - Associate Professor at IIT Jodhpur, working on power electronics, advanced control, and renewable energy systems</li>
+    <li><a href="https://nishanthjkumar.com">Nishanth J. Kumar</a> - PhD student at MIT CSAIL, working on AI/ML and robotics for long-horizon planning</li>
+  </ul>
 </div>
