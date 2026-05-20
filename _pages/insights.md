@@ -9,6 +9,22 @@ This page collects short, non-technical essays and reflections on urban mobility
 
 <div class="insights-list">
   <article class="insight-card">
+    <div class="insight-card__content">
+      <h2 class="insight-card__title">Interactive Pareto Explorer for Workplace EV Charging Tradeoffs</h2>
+      <p class="insight-card__description">
+        Interactive plot for exploring tradeoffs between percent demand met and mean charging cost across Offline Optimal solutions. The visualization highlights three convergent solution sets associated with different TOU-pricing-level mixes.
+      </p>
+      <div class="insight-card__links">
+        <a href="https://ev-tradeoffs-trd.streamlit.app/" target="_blank" rel="noopener noreferrer">Open interactive plot</a>
+        <a href="https://doi.org/10.1016/j.trd.2025.104869" target="_blank" rel="noopener noreferrer">Paper DOI</a>
+      </div>
+      <p class="insight-card__note">
+        Related paper: Kumar, N., Wang, Y., Chin, J.-X., &amp; Raubal, M. (2025). <em>Quantifying the impacts of non-recurrent congestion on workplace EV charging infrastructures</em>, Transportation Research Part D: Transport and Environment, 146, 104869.
+      </p>
+    </div>
+  </article>
+
+  <article class="insight-card">
     <div class="insight-card__image-wrap">
       <img
         src="/assets/img/resilience-connected-infrastructures-thumbnail.png"
