@@ -26,6 +26,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Insights"
+    url: /insights/
+
   - title: "Software"
     url: /software/
 
