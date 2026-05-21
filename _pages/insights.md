@@ -9,6 +9,13 @@ This page collects short, non-technical essays and reflections on urban mobility
 
 <div class="insights-list">
   <article class="insight-card">
+    <div class="insight-card__image-wrap">
+      <img
+        src="/assets/img/insight-streamlit-app-thumbnail.jpeg"
+        alt="Thumbnail image for interactive Pareto explorer of workplace EV charging tradeoffs"
+        class="insight-card__image"
+      />
+    </div>
     <div class="insight-card__content">
       <h2 class="insight-card__title">Interactive Pareto Explorer for Workplace EV Charging Tradeoffs</h2>
       <p class="insight-card__description">
