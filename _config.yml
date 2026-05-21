@@ -159,6 +159,12 @@ analytics:
   google:
     tracking_id          :
 
+# Lightweight public visitor counter (CountAPI)
+visitor_counter:
+  enabled                : true
+  namespace              : "abcnishant007-github-io"
+  key                    : "site-visits"
+
 
 # Reading Files
 include:
