@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Doctor of Sciences (Dr. sc.)**, ETH Zurich, Switzerland (Dec 2020-2025)  
+* **Doctor of Sciences (Dr. sc.)**, ETH Zurich, Switzerland (2025)  
   Department of Civil, Environmental and Geomatic Engineering, Institute for Cartography and Geoinformation  
-  Thesis defended: 27 March 2025; Degree granted: 30 May 2025  
   Dissertation: *Data-driven Congestion Prediction - Challenges, Solutions, and its Impact on Connected Infrastructures*  
   <https://www.research-collection.ethz.ch/handle/20.500.11850/737852>
 * **Master of Technology (M.Tech.), Computer Science**, Indian Statistical Institute, Kolkata, India (2014-2016)  
