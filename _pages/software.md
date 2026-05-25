@@ -236,6 +236,8 @@ Python utilities
 ======
 * [**smartprint**](https://github.com/abcnishant007/smartprint): lightweight Python debugging utility  
   PyPI: [smartprint](https://pypi.org/project/smartprint/)
+* [**mcvoronoi**](https://github.com/abcnishant007/mcvoronoi): Python utility for Monte Carlo Voronoi workflows (contributor).  
+  Contributors: [abcnishant007/mcvoronoi](https://github.com/abcnishant007/mcvoronoi/graphs/contributors?all=1)
 
 Language and tooling
 ======

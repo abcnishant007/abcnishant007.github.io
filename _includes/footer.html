@@ -22,4 +22,35 @@
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}
+  {% if site.visitor_counter and site.visitor_counter.enabled %}
+    {% if site.visitor_counter.provider == "visitorbadge" %}
+      <span class="visitor-counter" aria-live="polite">
+        <img
+          src="https://api.visitorbadge.io/api/visitors?path={{ site.visitor_counter.path | default: site.url }}"
+          alt="Visitor counter"
+          style="vertical-align: middle;"
+        />
+      </span>
+    {% else %}
+      <span class="visitor-counter" aria-live="polite">Visitors: <span id="visitor-count">...</span></span>
+      <script>
+        (function () {
+          var el = document.getElementById("visitor-count");
+          if (!el) return;
+          fetch("https://api.countapi.xyz/hit/{{ site.visitor_counter.namespace }}/{{ site.visitor_counter.key }}")
+            .then(function (res) { return res.json(); })
+            .then(function (data) {
+              if (typeof data.value === "number") {
+                el.textContent = data.value.toLocaleString();
+              } else {
+                el.textContent = "-";
+              }
+            })
+            .catch(function () {
+              el.textContent = "-";
+            });
+        })();
+      </script>
+    {% endif %}
+  {% endif %}
 </div>
