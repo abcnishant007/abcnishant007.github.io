@@ -1,0 +1,46 @@
+Website Improvement Requirements — abcnishant007.github.io
+
+Task 1 — Rename and reframe the "Other researchers" section
+- Rename heading/summary to: "Looking for a different Nishant Kumar?"
+- Add intro sentence before list:
+  "If you're looking for another researcher named Nishant Kumar, the following links might help."
+- Wrap the entire section in an HTML <details>/<summary> so it is collapsed by default.
+
+Task 2 — Revise bio to remove standalone SDG paragraph
+- Do not delete SDG content.
+- Weave SDG 11/3/12/17 naturally into the preceding research-description paragraph.
+- Avoid a separate formal SDG checklist paragraph.
+
+Task 3 — Tighten one-liner and bio to avoid repetition
+- Keep sidebar one-liner exactly as-is:
+  "Postdoctoral Research Fellow at NUS; transport AI, congestion prediction, and interpretable ML."
+- Rewrite first 1-2 homepage bio sentences to avoid repeating the same keywords verbatim.
+- Expand on motivation/distinctive approach.
+
+Task 4 — Add homepage hero tagline
+- Directly below "# Nishant Kumar" and before bio paragraphs, add:
+  *"I build interpretable AI systems to understand and reduce urban traffic congestion."*
+- Add link below it:
+  "→ See my research" -> /research/
+
+Task 5 — Fix duplicate page title
+- Browser tab title should be: "Nishant Kumar" (not "Nishant Kumar - Nishant Kumar").
+- Adjust front matter/config/SEO logic as needed.
+
+Task 6 — Remove or fix broken visitor counter
+- If counter is broken, remove it entirely.
+- Prefer no counter over broken counter.
+
+Task 7 — Slim down navigation
+- Keep in main nav only:
+  Home, About, CV, Publications, Research, Software
+- Talks: nest under Research if supported; otherwise remove from top nav and link from Research page.
+- Insights: remove from top nav and link from About page.
+- Code & Data: remove from top nav and link from Software page.
+- Photos: move to About page or remove from top nav.
+- Target top-level nav count: about 6 items max.
+
+General notes
+- Test changes locally with: bundle exec jekyll serve
+- Check mobile (hamburger) nav reflects the slimmed menu too.
+- Do not change visual styling, colors, or fonts.

@@ -20,20 +20,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-
   - title: "Research"
     url: /research/
 
-  - title: "Insights"
-    url: /insights/
-
   - title: "Software"
     url: /software/
-
-  - title: "Code & Data"
-    url: /code-data/
-
-  - title: "Photos"
-    url: /photos/

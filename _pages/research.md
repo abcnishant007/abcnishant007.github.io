@@ -7,6 +7,8 @@ author_profile: true
 
 I study urban traffic congestion as a complex, data-rich transportation problem. My work combines deep learning, classical machine learning, simulation, and network-based analysis to improve how congestion is predicted, interpreted, and mitigated.
 
+For presentations and invited lectures, see [Talks](/talks/).
+
 Societal Relevance and SDGs
 ======
 My research contributes most directly to SDG 11, Sustainable Cities and Communities. I study urban traffic congestion because it affects the reliability, accessibility, and livability of cities. My work focuses on predicting congestion, explaining where it forms, and evaluating how future urban infrastructures can better absorb traffic-related disruptions.
