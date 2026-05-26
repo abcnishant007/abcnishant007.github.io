@@ -53,4 +53,28 @@ This page collects short, non-technical essays and reflections on urban mobility
       </p>
     </div>
   </article>
+
+  <article class="insight-card">
+    <div class="insight-card__image-wrap">
+      <img
+        src="https://opengraph.githubassets.com/1/mie-lab/Complexity-Aware-Traffic-Prediction"
+        alt="Thumbnail image for Complexity-Aware Traffic Prediction demo notebook"
+        class="insight-card__image"
+      />
+    </div>
+    <div class="insight-card__content">
+      <h2 class="insight-card__title">Complexity-Aware Traffic Prediction: Interactive Demo Notebook</h2>
+      <p class="insight-card__description">
+        An interactive usability demo on toy sensor readings that shows the end-to-end workflow from data setup to traffic prediction outputs.
+        It is designed for quick exploration and can be run directly in Google Colab without local setup.
+      </p>
+      <div class="insight-card__links">
+        <a href="https://github.com/mie-lab/Complexity-Aware-Traffic-Prediction/blob/main/Demo_CATP.ipynb" target="_blank" rel="noopener noreferrer">Open notebook on GitHub</a>
+        <a href="https://colab.research.google.com/github/mie-lab/Complexity-Aware-Traffic-Prediction/blob/main/Demo_CATP.ipynb" target="_blank" rel="noopener noreferrer">Run in Google Colab</a>
+      </div>
+      <p class="insight-card__note">
+        Related paper and repository by Kumar, N. et al.: Complexity-aware traffic prediction with an accessible, hands-on demo for broader outreach.
+      </p>
+    </div>
+  </article>
 </div>
