@@ -1,54 +1,12 @@
 {
   "username": "abcnishant007",
   "source": "https://github-contributions.vercel.app/api/v1/abcnishant007",
-  "generated_at": "2026-05-25T07:02:37+00:00",
+  "generated_at": "2026-06-01T08:25:47+00:00",
   "summary": {
     "year": "2026",
-    "total": 773
+    "total": 801
   },
   "contributions": [
-    {
-      "date": "2025-05-12",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-05-13",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-05-14",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-05-15",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-05-16",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-05-17",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-05-18",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
     {
       "date": "2025-05-19",
       "count": 0,
@@ -1431,7 +1389,7 @@
     },
     {
       "date": "2026-01-04",
-      "count": 773,
+      "count": 801,
       "color": "#216e39",
       "intensity": "4"
     },
@@ -2278,20 +2236,20 @@
     {
       "date": "2026-05-25",
       "count": 0,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-05-26",
       "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-05-27",
       "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-05-28",
@@ -2302,8 +2260,8 @@
     {
       "date": "2026-05-29",
       "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2026-05-30",
@@ -2314,8 +2272,8 @@
     {
       "date": "2026-05-31",
       "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "color": "#9be9a8",
+      "intensity": "1"
     },
     {
       "date": "2026-06-01",
