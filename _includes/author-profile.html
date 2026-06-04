@@ -36,8 +36,8 @@
       {% if author.email %}
         {% if author.email_image %}
           <li>
-            <a href="mailto:{{ author.email }}">
-              <img src="{{ author.email_image | prepend: '/images/' | prepend: base_path }}" alt="{{ author.email }}" class="mail-image" />
+            <a href="mailto:{{ author.email }}" aria-label="Email">
+              <img src="{{ author.email_image | prepend: '/images/' | prepend: base_path }}" alt="" aria-hidden="true" class="mail-image" />
             </a>
           </li>
         {% else %}
