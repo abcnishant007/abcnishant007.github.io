@@ -41,6 +41,7 @@ Task 7 — Slim down navigation
 - Target top-level nav count: about 6 items max.
 
 General notes
+- Good rollback commit if needed: `f6f5b0423424df75ee3c92a62ab44ee8df37366f` (`2026-06-04 Hide email text in author profile`)
 - Test changes locally with: bundle exec jekyll serve
 - Check mobile (hamburger) nav reflects the slimmed menu too.
 - Do not change visual styling, colors, or fonts.
