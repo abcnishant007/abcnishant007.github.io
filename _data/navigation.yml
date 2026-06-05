@@ -11,20 +11,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "About"
-    url: /about/
-
-  - title: "CV"
-    url: /cv/
-
   - title: "Publications"
     url: /publications/
 
   - title: "Research"
     url: /research/
 
-  - title: "Outreach"
-    url: /insights/
+  - title: "CV"
+    url: /cv/
 
-  - title: "Software"
-    url: /software/
+  - title: "Notebook"
+    url: /notebook/

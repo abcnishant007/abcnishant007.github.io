@@ -4,31 +4,50 @@ title: "Nishant Kumar"
 author_profile: true
 redirect_from: 
   - /home/
+  - /about/
+feature_row:
+  - title: "Urban Computing & Mobility AI"
+    excerpt: "Data-driven methods for understanding and predicting urban mobility patterns, congestion, and transport system performance."
+  - title: "Interpretable Machine Learning"
+    excerpt: "Explainable models and analysis frameworks that connect predictions to actionable transport and planning insights."
+  - title: "Resilient & Sustainable Infrastructure"
+    excerpt: "Research on EV charging, mobility services, automated mobility, and the robustness of urban transport infrastructure."
 ---
 
-*I build interpretable AI systems to understand and reduce urban traffic congestion.*
+<p class="page__lead"><strong>I build interpretable AI for resilient urban mobility systems.</strong> My work combines machine learning, simulation, and network analysis to study congestion, mobility services, EV charging, and transport infrastructure.</p>
 
-[→ See my research](/research/)
+<p>I am a Postdoctoral Research Fellow at the National University of Singapore. My research sits at the intersection of urban computing, transport AI, and interpretable machine learning.</p>
 
-I work on urban traffic congestion as a data-driven complex-systems challenge, with an emphasis on methods that are not only accurate but also useful for real planning decisions. My research spans interpretable prediction, model complexity, road-network-based explanations, and the resilience of interconnected infrastructures such as transport and EV charging systems.
+<p>My work combines machine learning, simulation, and network-based analysis to connect large-scale mobility data with interpretable insights for transport planning and infrastructure decision-making.</p>
 
-A recurring theme in my work is reproducibility. Since my 2021 survey on deep learning for traffic congestion detection, prediction, and alleviation, where I highlighted the need for open datasets, open-source code, and transferable benchmarks, I have tried to make openness a consistent part of my research practice.
+## Research Themes
 
-This work is most directly connected to SDG 11 (Sustainable Cities and Communities), and also intersects with SDG 3, SDG 12, and SDG 17 through congestion mitigation, computationally efficient modelling, open datasets, and reproducible research practices.
+{% include feature_row %}
 
-I am currently a Postdoctoral Research Fellow at the National University of Singapore in Dr. Prateek Bansal's [BeCoS Lab](https://behaviourscience.org). Previously, I was a PhD student at ETH Zurich in Prof. Dr. Martin Raubal's [Mobility Information Engineering Lab](https://mie-lab.ethz.ch).
+## Selected Publications
 
-You can also find short essays and notes on my [Insights](/insights/) page, and personal snapshots on [Photos](/photos/).
+<ol>
+  <li>
+    <em>Quantifying the impacts of non-recurrent congestion on workplace EV charging infrastructures</em> (2025). <a href="https://doi.org/10.1016/j.trd.2025.104869">DOI</a>
+  </li>
+  <li>
+    <em>Enhancing Deep Learning-Based City-Wide Traffic Prediction Pipelines Through Complexity Analysis</em> (2024). <a href="https://doi.org/10.1007/s42421-024-00109-x">DOI</a>
+  </li>
+  <li>
+    <em>Evaluating the impacts of shared automated mobility on-demand services: an activity-based accessibility approach</em> (2021). <a href="https://doi.org/10.1007/s11116-020-10106-y">DOI</a>
+  </li>
+  <li>
+    <em>Applications of Deep Learning in Congestion Detection, Prediction and Alleviation: A Survey</em> (2021). <a href="https://doi.org/10.1016/j.trc.2021.103432">DOI</a>
+  </li>
+</ol>
 
-<div style="font-size: 50%;">
-  <details>
-    <summary>Looking for a different Nishant Kumar?</summary>
-    <p>If you're looking for another researcher named Nishant Kumar, the following links might help.</p>
-    <ul>
-      <li><a href="https://nish03.github.io">Nishant Kumar</a> - Research Scientist at Helmholtz Zentrum Hereon/TU Dresden, working on AI/ML for climate modeling</li>
-      <li><a href="https://orcid.org/0000-0002-2814-8803">Nishant Kumar</a> - Postdoctoral Researcher at Tufts University, working on 2D materials, AFM, and biomedical mechanics</li>
-      <li><a href="https://iitj.ac.in/People/Profile/bcc4a5b6-0c7d-42b3-bf7e-aaa7c1263d67">Nishant Kumar</a> - Associate Professor at IIT Jodhpur, working on power electronics, advanced control, and renewable energy systems</li>
-      <li><a href="https://nishanthjkumar.com">Nishanth J. Kumar</a> - PhD student at MIT CSAIL, working on AI/ML and robotics for long-horizon planning</li>
-    </ul>
-  </details>
-</div>
+<p><a href="/publications/">See all publications</a></p>
+
+## Links
+
+- [Publications](/publications/)
+- [Research](/research/)
+- [CV](/cv/)
+- [Google Scholar](https://scholar.google.com/citations?user=AiujSOkAAAAJ&hl=en)
+- [GitHub](https://github.com/abcnishant007)
+- [Email](mailto:nishant.kumar@nus.edu.sg)

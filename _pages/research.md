@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I study urban traffic congestion as a complex, data-rich transportation problem. My work combines deep learning, classical machine learning, simulation, and network-based analysis to improve how congestion is predicted, interpreted, and mitigated.
+I study urban mobility systems as a complex, data-rich transportation problem. My work combines machine learning, simulation, and network-based analysis to understand congestion, mobility services, EV charging, and the resilience of urban transport infrastructure.
 
 For presentations and invited lectures, see [Talks](/talks/).
 
