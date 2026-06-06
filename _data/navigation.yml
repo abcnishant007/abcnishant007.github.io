@@ -17,8 +17,14 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Talks"
+    url: /talks/
+
   - title: "CV"
     url: /cv/
 
-  - title: "Notebook"
-    url: /notebook/
+  - title: "Outreach"
+    url: /insights/
+
+  - title: "Photos"
+    url: /photos/
