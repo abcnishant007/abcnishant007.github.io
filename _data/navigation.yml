@@ -28,3 +28,6 @@ main:
 
   - title: "Photos"
     url: /photos/
+
+  - title: "Software"
+    url: /software/
