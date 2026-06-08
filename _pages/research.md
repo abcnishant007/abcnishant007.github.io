@@ -21,10 +21,21 @@ My work also supports SDG 17, Partnerships for the Goals, through reproducibilit
 
 Future Directions
 ======
-Going forward, I want to continue working on transport research that is useful beyond isolated case studies. This includes developing congestion prediction methods that are transferable across cities, interpretable enough to support planning decisions, and computationally efficient enough to be deployed in settings with limited resources.
+I plan to focus on transport research that remains useful beyond isolated case studies, with methods that are transferable, interpretable, and practical for real planning settings.
 
-I am especially interested in three directions. First, I want to study how open and crowdsourced mobility datasets can support congestion prediction across cities with different data environments. Second, I want to continue developing interpretable methods that connect model predictions to transport-system features, especially road network structure and infrastructure constraints. Third, I want to study the resilience of interconnected urban infrastructures, such as transport and electric-vehicle charging systems, under non-recurrent congestion and other disruptions.
+- I plan to study how open and crowdsourced mobility datasets can support congestion prediction across cities with different data environments.
+- I plan to develop interpretable methods that connect model predictions to transport-system features, especially road-network structure and infrastructure constraints.
+- I plan to study the resilience of interconnected urban infrastructures, such as transport and electric-vehicle charging systems, under non-recurrent congestion and other disruptions.
 
 Global Collaborators
 ======
-I collaborate across institutions and disciplines on transport AI, simulation, mobility data, and infrastructure resilience.
+I maintain an active collaboration network globally across transport AI, simulation, mobility data, and infrastructure resilience. The figure below shows the current affiliations of my most recent collaborators.
+
+<div style="max-width: 720px; margin: 1rem 0;">
+  <iframe
+    src="https://jade-staci-98.tiiny.site/"
+    title="Global collaborators map"
+    loading="lazy"
+    style="width: 100%; height: 360px; border: 1px solid #d6d6d6; border-radius: 8px;"
+  ></iframe>
+</div>

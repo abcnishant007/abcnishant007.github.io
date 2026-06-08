@@ -26,8 +26,8 @@ main:
   - title: "Outreach"
     url: /insights/
 
-  - title: "Photos"
-    url: /photos/
-
   - title: "Software"
     url: /software/
+
+  - title: "Photos"
+    url: /photos/

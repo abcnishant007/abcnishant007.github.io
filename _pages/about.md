@@ -18,6 +18,8 @@ feature_row:
 
 <p>I am a Postdoctoral Research Fellow at the National University of Singapore. My research sits at the intersection of urban computing, transport AI, and interpretable machine learning.</p>
 
+<p>I am currently a Postdoctoral Research Fellow at the National University of Singapore in Dr. Prateek Bansal's <a href="https://behaviourscience.org">BeCoS Lab</a>. Previously, I was a PhD student at ETH Zurich in Prof. Dr. Martin Raubal's <a href="https://mie-lab.ethz.ch">Mobility Information Engineering Lab</a>.</p>
+
 <p>My work combines machine learning, simulation, and network-based analysis to connect large-scale mobility data with interpretable insights for transport planning and infrastructure decision-making.</p>
 
 ## Research Themes
