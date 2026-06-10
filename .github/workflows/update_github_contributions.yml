@@ -21,6 +21,8 @@ jobs:
           python-version: "3.11"
 
       - name: Refresh contribution data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_github_contributions.py
 
       - name: Commit updated data
