@@ -12,9 +12,17 @@ from urllib.request import Request, urlopen
 USERNAME = "abcnishant007"
 GRAPHQL_URL = "https://api.github.com/graphql"
 PUBLIC_CONTRIBUTIONS_URL = f"https://github.com/users/{USERNAME}/contributions"
+CONTRIBUTIONS_API_URL = f"https://github-contributions-api.jogruber.de/v4/{USERNAME}"
 OUTPUT_PATH = Path("assets/data/github-contributions.json")
 WEEKS_TO_KEEP = 54
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+LEVEL_TO_COLOR = {
+    0: "#ebedf0",
+    1: "#9be9a8",
+    2: "#40c463",
+    3: "#30a14e",
+    4: "#216e39",
+}
 
 GRAPHQL_QUERY = """
 query($login: String!) {
@@ -49,6 +57,18 @@ def fetch_public_contributions_html():
         return response.read().decode("utf-8")
 
 
+def fetch_contributions_api_payload():
+    request = Request(
+        f"{CONTRIBUTIONS_API_URL}?y=last",
+        headers={
+            "User-Agent": "abcnishant007.github.io contribution updater",
+            "Accept": "application/json",
+        },
+    )
+    with urlopen(request, timeout=30) as response:
+        return json.load(response)
+
+
 def fetch_graphql_payload():
     if not GITHUB_TOKEN:
         raise RuntimeError("GITHUB_TOKEN is not set")
@@ -77,6 +97,29 @@ def fetch_graphql_payload():
         raise RuntimeError(f"GitHub GraphQL returned errors: {result['errors']}")
 
     return result
+
+
+def normalize_contributions_api_payload(payload):
+    contributions = []
+    for day in payload.get("contributions", []):
+        level = int(day.get("level", 0))
+        level = min(max(level, 0), 4)
+        contributions.append(
+            {
+                "date": day["date"],
+                "count": int(day.get("count", 0)),
+                "color": LEVEL_TO_COLOR[level],
+                "intensity": str(level),
+            }
+        )
+
+    if not contributions:
+        raise RuntimeError("No contribution days returned from contributions API")
+
+    return {
+        "source": CONTRIBUTIONS_API_URL,
+        "contributions": contributions,
+    }
 
 
 def normalize_graphql_payload(payload):
@@ -144,6 +187,33 @@ def trim_contributions(contributions):
     return sorted(trimmed, key=lambda item: item["date"])
 
 
+def validate_contributions(contributions):
+    today = date.today()
+    seen_dates = set()
+
+    for item in contributions:
+        item_date = date.fromisoformat(item["date"])
+        if item_date > today:
+            raise RuntimeError(f"Contribution data contains future date: {item['date']}")
+        if item["date"] in seen_dates:
+            raise RuntimeError(f"Contribution data contains duplicate date: {item['date']}")
+        seen_dates.add(item["date"])
+
+        count = int(item.get("count", 0))
+        intensity = int(item.get("intensity", "0"))
+        expected_color = LEVEL_TO_COLOR.get(intensity)
+        if expected_color is None:
+            raise RuntimeError(f"Contribution data contains invalid intensity: {item['intensity']}")
+        if count < 0:
+            raise RuntimeError(f"Contribution data contains negative count: {item['date']}")
+        if count == 0 and intensity > 0:
+            raise RuntimeError(
+                f"Contribution data is inconsistent for {item['date']}: zero count with non-zero intensity"
+            )
+        if item.get("color", "").lower() != expected_color:
+            raise RuntimeError(f"Contribution data contains invalid color for {item['date']}")
+
+
 def current_year_total(contributions):
     current_year = date.today().year
     return sum(
@@ -155,6 +225,7 @@ def current_year_total(contributions):
 
 def build_output(payload):
     trimmed = trim_contributions(payload.get("contributions", []))
+    validate_contributions(trimmed)
     generated_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     current_year = str(date.today().year)
 
@@ -174,12 +245,15 @@ def build_output(payload):
 
 def main():
     try:
-        payload = normalize_graphql_payload(fetch_graphql_payload())
+        payload = normalize_contributions_api_payload(fetch_contributions_api_payload())
     except (RuntimeError, URLError, TimeoutError):
         try:
-            payload = normalize_public_html(fetch_public_contributions_html())
+            payload = normalize_graphql_payload(fetch_graphql_payload())
         except (RuntimeError, URLError, TimeoutError, ET.ParseError):
-            raise RuntimeError("Unable to fetch GitHub contribution data from GitHub")
+            try:
+                payload = normalize_public_html(fetch_public_contributions_html())
+            except (RuntimeError, URLError, TimeoutError, ET.ParseError):
+                raise RuntimeError("Unable to fetch GitHub contribution data from any source")
     output = build_output(payload)
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, indent=2) + "\n", encoding="utf-8")

@@ -16,11 +16,9 @@ feature_row:
 
 <p class="page__lead"><strong>I build interpretable AI for resilient urban mobility systems.</strong> My work combines machine learning, simulation, and network analysis to study congestion, mobility services, EV charging, and transport infrastructure.</p>
 
-<p>I am a Postdoctoral Research Fellow at the National University of Singapore. My research sits at the intersection of urban computing, transport AI, and interpretable machine learning.</p>
+<p>I am a Postdoctoral Research Fellow at the National University of Singapore in Dr. Prateek Bansal's <a href="https://behaviourscience.org">BeCoS Lab</a>. My research sits at the intersection of urban computing, transport AI, and interpretable machine learning.</p>
 
-<p>I am currently a Postdoctoral Research Fellow at the National University of Singapore in Dr. Prateek Bansal's <a href="https://behaviourscience.org">BeCoS Lab</a>. Previously, I was a PhD student at ETH Zurich in Prof. Dr. Martin Raubal's <a href="https://mie-lab.ethz.ch">Mobility Information Engineering Lab</a>.</p>
-
-<p>My work combines machine learning, simulation, and network-based analysis to connect large-scale mobility data with interpretable insights for transport planning and infrastructure decision-making.</p>
+<p>Previously, I was a PhD student at ETH Zurich in Prof. Dr. Martin Raubal's <a href="https://mie-lab.ethz.ch">Mobility Information Engineering Lab</a>, where I worked on large-scale mobility data, interpretable modeling, and transport infrastructure analysis.</p>
 
 ## Research Themes
 
