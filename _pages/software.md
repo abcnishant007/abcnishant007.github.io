@@ -224,6 +224,8 @@ Research software and contributions
 ======
 * [trackintel](https://github.com/mie-lab/trackintel): open-source Python toolkit for geospatial trajectory processing and mobility analytics.
 * [simmobility-prod](https://github.com/smart-fm/simmobility-prod): contributions to large-scale urban mobility simulation workflows and related tooling.
+* [groupstackbar](https://github.com/jimioke/groupstackbar): contributor to a Python package for creating grouped and stacked bar plots with matplotlib.  
+  Contributors: [jimioke/groupstackbar](https://github.com/jimioke/groupstackbar/graphs/contributors?all=1)
 * Complexity-aware traffic prediction tools: internal and paper-linked tooling for model comparison, complexity analysis, and scalable training/evaluation workflows.
 
 Scientific workflow tools
@@ -246,4 +248,5 @@ I mainly work in Python for modelling, data workflows, and research software. I 
 Community
 ======
 * Stack Overflow profile: [lifezbeautiful](https://stackoverflow.com/users/3896008/lifezbeautiful)
+  Once, someone posted a [matplotlib `UFuncTypeError` question](https://stackoverflow.com/questions/76195580/when-plotting-autocorrelation-function-plot-getting-ufunctypeerror) on Stack Overflow. I dug into it, found that NumPy's casting behavior was intended but matplotlib's `xcorr` handling was a bit unintuitive around that case, opened a fix, and two days later I was a matplotlib contributor.
 * GitHub profile: [abcnishant007](https://github.com/abcnishant007)
