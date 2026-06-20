@@ -248,5 +248,5 @@ I mainly work in Python for modelling, data workflows, and research software. I 
 Community
 ======
 * Stack Overflow profile: [lifezbeautiful](https://stackoverflow.com/users/3896008/lifezbeautiful)
-  Once, someone posted a [matplotlib `UFuncTypeError` question](https://stackoverflow.com/questions/76195580/when-plotting-autocorrelation-function-plot-getting-ufunctypeerror) on Stack Overflow. I dug into it, found that NumPy's casting behavior was intended but matplotlib's `xcorr` handling was a bit unintuitive around that case, opened a fix, and two days later I was a matplotlib contributor.
+  Once, someone posted a [matplotlib `UFuncTypeError` question](https://stackoverflow.com/questions/76195580/when-plotting-autocorrelation-function-plot-getting-ufunctypeerror) on Stack Overflow. I dug into it, found that NumPy's casting behavior was intended but matplotlib's `xcorr` handling was a bit unintuitive around that case, opened a fix, and two days later I was a matplotlib contributor :)
 * GitHub profile: [abcnishant007](https://github.com/abcnishant007)
