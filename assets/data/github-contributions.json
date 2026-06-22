@@ -1,54 +1,12 @@
 {
   "username": "abcnishant007",
   "source": "https://github-contributions-api.jogruber.de/v4/abcnishant007",
-  "generated_at": "2026-06-15T08:48:00+00:00",
+  "generated_at": "2026-06-22T08:48:27+00:00",
   "summary": {
     "year": "2026",
-    "total": 909
+    "total": 959
   },
   "contributions": [
-    {
-      "date": "2025-06-15",
-      "count": 18,
-      "color": "#30a14e",
-      "intensity": "3"
-    },
-    {
-      "date": "2025-06-16",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-06-17",
-      "count": 10,
-      "color": "#40c463",
-      "intensity": "2"
-    },
-    {
-      "date": "2025-06-18",
-      "count": 5,
-      "color": "#9be9a8",
-      "intensity": "1"
-    },
-    {
-      "date": "2025-06-19",
-      "count": 34,
-      "color": "#216e39",
-      "intensity": "4"
-    },
-    {
-      "date": "2025-06-20",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-06-21",
-      "count": 2,
-      "color": "#9be9a8",
-      "intensity": "1"
-    },
     {
       "date": "2025-06-22",
       "count": 1,
@@ -148,8 +106,8 @@
     {
       "date": "2025-07-08",
       "count": 16,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2025-07-09",
@@ -820,8 +778,8 @@
     {
       "date": "2025-10-28",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2025-10-29",
@@ -856,8 +814,8 @@
     {
       "date": "2025-11-03",
       "count": 23,
-      "color": "#30a14e",
-      "intensity": "3"
+      "color": "#216e39",
+      "intensity": "4"
     },
     {
       "date": "2025-11-04",
@@ -892,8 +850,8 @@
     {
       "date": "2025-11-09",
       "count": 16,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2025-11-10",
@@ -904,8 +862,8 @@
     {
       "date": "2025-11-11",
       "count": 22,
-      "color": "#30a14e",
-      "intensity": "3"
+      "color": "#216e39",
+      "intensity": "4"
     },
     {
       "date": "2025-11-12",
@@ -958,8 +916,8 @@
     {
       "date": "2025-11-20",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2025-11-21",
@@ -976,8 +934,8 @@
     {
       "date": "2025-11-23",
       "count": 16,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2025-11-24",
@@ -994,14 +952,14 @@
     {
       "date": "2025-11-26",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2025-11-27",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2025-11-28",
@@ -1078,8 +1036,8 @@
     {
       "date": "2025-12-10",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2025-12-11",
@@ -1114,8 +1072,8 @@
     {
       "date": "2025-12-16",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2025-12-17",
@@ -1144,20 +1102,20 @@
     {
       "date": "2025-12-21",
       "count": 22,
-      "color": "#30a14e",
-      "intensity": "3"
+      "color": "#216e39",
+      "intensity": "4"
     },
     {
       "date": "2025-12-22",
       "count": 23,
-      "color": "#30a14e",
-      "intensity": "3"
+      "color": "#216e39",
+      "intensity": "4"
     },
     {
       "date": "2025-12-23",
       "count": 16,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2025-12-24",
@@ -1192,14 +1150,14 @@
     {
       "date": "2025-12-29",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2025-12-30",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2025-12-31",
@@ -1228,8 +1186,8 @@
     {
       "date": "2026-01-04",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2026-01-05",
@@ -1246,8 +1204,8 @@
     {
       "date": "2026-01-07",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2026-01-08",
@@ -1258,14 +1216,14 @@
     {
       "date": "2026-01-09",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2026-01-10",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-01-11",
@@ -1390,8 +1348,8 @@
     {
       "date": "2026-01-31",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-02-01",
@@ -1468,8 +1426,8 @@
     {
       "date": "2026-02-13",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-02-14",
@@ -1492,8 +1450,8 @@
     {
       "date": "2026-02-17",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-02-18",
@@ -1522,8 +1480,8 @@
     {
       "date": "2026-02-22",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-02-23",
@@ -1714,8 +1672,8 @@
     {
       "date": "2026-03-26",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-03-27",
@@ -1852,14 +1810,14 @@
     {
       "date": "2026-04-18",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-04-19",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2026-04-20",
@@ -1984,8 +1942,8 @@
     {
       "date": "2026-05-10",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2026-05-11",
@@ -2014,8 +1972,8 @@
     {
       "date": "2026-05-15",
       "count": 15,
-      "color": "#40c463",
-      "intensity": "2"
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2026-05-16",
@@ -2086,8 +2044,8 @@
     {
       "date": "2026-05-27",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-05-28",
@@ -2098,8 +2056,8 @@
     {
       "date": "2026-05-29",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-05-30",
@@ -2134,8 +2092,8 @@
     {
       "date": "2026-06-04",
       "count": 8,
-      "color": "#9be9a8",
-      "intensity": "1"
+      "color": "#40c463",
+      "intensity": "2"
     },
     {
       "date": "2026-06-05",
@@ -2199,9 +2157,51 @@
     },
     {
       "date": "2026-06-15",
+      "count": 3,
+      "color": "#9be9a8",
+      "intensity": "1"
+    },
+    {
+      "date": "2026-06-16",
+      "count": 3,
+      "color": "#9be9a8",
+      "intensity": "1"
+    },
+    {
+      "date": "2026-06-17",
+      "count": 6,
+      "color": "#9be9a8",
+      "intensity": "1"
+    },
+    {
+      "date": "2026-06-18",
       "count": 2,
       "color": "#9be9a8",
       "intensity": "1"
+    },
+    {
+      "date": "2026-06-19",
+      "count": 13,
+      "color": "#40c463",
+      "intensity": "2"
+    },
+    {
+      "date": "2026-06-20",
+      "count": 3,
+      "color": "#9be9a8",
+      "intensity": "1"
+    },
+    {
+      "date": "2026-06-21",
+      "count": 22,
+      "color": "#216e39",
+      "intensity": "4"
+    },
+    {
+      "date": "2026-06-22",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
     }
   ]
 }
