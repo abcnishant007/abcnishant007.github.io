@@ -1,54 +1,12 @@
 {
   "username": "abcnishant007",
   "source": "https://github-contributions-api.jogruber.de/v4/abcnishant007",
-  "generated_at": "2026-07-27T06:17:01+00:00",
+  "generated_at": "2026-08-03T06:09:15+00:00",
   "summary": {
     "year": "2026",
-    "total": 1272
+    "total": 1312
   },
   "contributions": [
-    {
-      "date": "2025-07-27",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-07-28",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-07-29",
-      "count": 3,
-      "color": "#9be9a8",
-      "intensity": "1"
-    },
-    {
-      "date": "2025-07-30",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-07-31",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-08-01",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-08-02",
-      "count": 1,
-      "color": "#9be9a8",
-      "intensity": "1"
-    },
     {
       "date": "2025-08-03",
       "count": 1,
@@ -2085,21 +2043,21 @@
     },
     {
       "date": "2026-07-08",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "count": 2,
+      "color": "#9be9a8",
+      "intensity": "1"
     },
     {
       "date": "2026-07-09",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "count": 1,
+      "color": "#9be9a8",
+      "intensity": "1"
     },
     {
       "date": "2026-07-10",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
+      "count": 2,
+      "color": "#9be9a8",
+      "intensity": "1"
     },
     {
       "date": "2026-07-11",
@@ -2187,21 +2145,63 @@
     },
     {
       "date": "2026-07-25",
-      "count": 16,
-      "color": "#40c463",
-      "intensity": "2"
+      "count": 18,
+      "color": "#30a14e",
+      "intensity": "3"
     },
     {
       "date": "2026-07-26",
-      "count": 9,
+      "count": 28,
+      "color": "#216e39",
+      "intensity": "4"
+    },
+    {
+      "date": "2026-07-27",
+      "count": 12,
       "color": "#40c463",
       "intensity": "2"
     },
     {
-      "date": "2026-07-27",
-      "count": 2,
+      "date": "2026-07-28",
+      "count": 4,
       "color": "#9be9a8",
       "intensity": "1"
+    },
+    {
+      "date": "2026-07-29",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
+    },
+    {
+      "date": "2026-07-30",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
+    },
+    {
+      "date": "2026-07-31",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
+    },
+    {
+      "date": "2026-08-01",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
+    },
+    {
+      "date": "2026-08-02",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
+    },
+    {
+      "date": "2026-08-03",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
     }
   ]
 }
