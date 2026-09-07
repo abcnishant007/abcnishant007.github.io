@@ -1,54 +1,12 @@
 {
   "username": "abcnishant007",
   "source": "https://github-contributions-api.jogruber.de/v4/abcnishant007",
-  "generated_at": "2026-08-31T09:02:28+00:00",
+  "generated_at": "2026-09-07T07:39:58+00:00",
   "summary": {
     "year": "2026",
-    "total": 1526
+    "total": 1532
   },
   "contributions": [
-    {
-      "date": "2025-08-31",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-09-02",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0,
-      "color": "#ebedf0",
-      "intensity": "0"
-    },
     {
       "date": "2025-09-07",
       "count": 0,
@@ -2175,7 +2133,7 @@
     },
     {
       "date": "2026-08-27",
-      "count": 3,
+      "count": 4,
       "color": "#9be9a8",
       "intensity": "1"
     },
@@ -2199,9 +2157,51 @@
     },
     {
       "date": "2026-08-31",
-      "count": 3,
+      "count": 4,
       "color": "#9be9a8",
       "intensity": "1"
+    },
+    {
+      "date": "2026-09-01",
+      "count": 1,
+      "color": "#9be9a8",
+      "intensity": "1"
+    },
+    {
+      "date": "2026-09-02",
+      "count": 1,
+      "color": "#9be9a8",
+      "intensity": "1"
+    },
+    {
+      "date": "2026-09-03",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
+    },
+    {
+      "date": "2026-09-04",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
+    },
+    {
+      "date": "2026-09-05",
+      "count": 2,
+      "color": "#9be9a8",
+      "intensity": "1"
+    },
+    {
+      "date": "2026-09-06",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
+    },
+    {
+      "date": "2026-09-07",
+      "count": 0,
+      "color": "#ebedf0",
+      "intensity": "0"
     }
   ]
 }
