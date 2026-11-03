@@ -175,6 +175,7 @@ include:
   - _pages
   - files
 exclude:
+  - cv_source
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
